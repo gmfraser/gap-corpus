@@ -1,0 +1,99 @@
+Participant	Start	End	Sentiment 
+24.Blue.1	00:01.5	00:02.2	Positive
+24.Orange.1	00:02.2	00:03.3	Positive
+24.Blue.2	00:02.2	00:04.7	Positive
+24.Pink.1	00:02.3	00:04.2	Positive
+24.Orange.8	00:20.6	00:22.3	Positive
+24.Blue.6	00:20.8	00:21.8	Negative
+24.Pink.4	00:22.0	00:23.3	Positive
+24.Orange.9	00:22.3	00:24.1	Positive
+24.Pink.6	00:30.6	00:32.1	Negative
+24.Blue.11	00:32.7	00:36.5	Positive
+24.Orange.14	00:43.0	00:44.2	Positive
+24.Blue.21	01:06.8	01:07.7	Positive
+24.Pink.13	01:06.9	01:08.1	Positive
+24.Orange.21	01:06.9	01:07.8	Positive
+24.Orange.27	01:23.4	01:27.8	Negative
+24.Pink.14	01:38.8	01:40.1	Negative
+24.Pink.15	01:40.8	01:42.0	Negative
+24.Pink.16	01:42.0	01:43.3	Negative
+24.Pink.17	01:43.4	01:44.6	Negative
+24.Blue.29	01:43.8	01:47.3	Positive & Negative
+24.Pink.18	01:45.7	01:47.2	Positive & Negative
+24.Blue.41	02:18.0	02:18.9	Positive
+24.Orange.41	02:30.9	02:31.6	Positive
+24.Orange.42	02:31.6	02:33.2	Positive
+24.Blue.47	02:32.9	02:33.6	Positive
+24.Orange.43	02:34.2	02:37.6	Positive
+24.Pink.27	02:35.6	02:37.3	Positive
+24.Orange.45	02:42.9	02:44.4	Positive & Negative
+24.Pink.29	02:43.5	02:46.3	Positive & Negative
+24.Orange.46	02:44.4	02:46.4	Positive & Negative
+24.Pink.30	02:54.0	02:56.1	Positive
+24.Orange.47	02:54.4	02:55.6	Positive
+24.Blue.51	02:55.1	02:58.1	Positive
+24.Orange.48	02:57.0	02:58.1	Positive
+24.Pink.32	03:32.1	03:33.8	Negative
+24.Pink.33	03:33.9	03:35.5	Positive & Negative
+24.Orange.56	03:52.7	03:56.4	Positive
+24.Pink.35	03:55.2	03:56.5	Positive
+24.Blue.67	03:56.1	03:57.4	Positive
+24.Orange.57	03:57.0	03:57.9	Positive
+24.Blue.69	04:05.7	04:06.3	Positive
+24.Orange.61	04:09.5	04:10.9	Positive
+24.Blue.71	04:10.8	04:12.2	Positive
+24.Orange.63	04:18.2	04:19.2	Positive
+24.Pink.44	04:25.2	04:27.3	Positive
+24.Orange.70	05:00.9	05:01.7	Negative
+24.Orange.78	05:31.7	05:33.7	Positive
+24.Pink.55	05:32.5	05:36.3	Positive
+24.Orange.79	05:33.7	05:35.8	Positive & Negative
+24.Orange.90	06:26.2	06:30.4	Negative
+24.Orange.91	06:30.4	06:38.5	Negative
+24.Orange.93	06:48.4	06:51.5	Negative
+24.Blue.117	06:48.4	06:49.3	Positive
+24.Pink.69	06:55.7	06:57.2	Negative
+24.Blue.120	06:55.9	06:57.8	Positive
+24.Orange.98	07:19.5	07:20.5	Positive
+24.Orange.107	07:48.6	07:53.7	Positive
+24.Orange.108	07:53.8	08:00.3	Positive
+24.Orange.111	08:03.3	08:09.4	Negative
+24.Orange.112	08:14.4	08:16.4	Positive
+24.Blue.140	08:14.8	08:16.3	Positive
+24.Pink.78	08:15.3	08:17.3	Positive
+24.Pink.79	08:18.3	08:19.3	Positive
+24.Blue.142	08:19.4	08:22.9	Positive
+24.Orange.115	08:22.5	08:24.2	Positive
+24.Pink.80	08:22.9	08:24.1	Positive
+24.Blue.143	08:26.5	08:27.2	Negative
+24.Pink.85	08:35.2	08:36.1	Positive
+24.Orange.118	08:39.0	08:39.9	Positive
+24.Orange.126	09:08.1	09:10.6	Positive
+24.Blue.173	10:26.5	10:27.2	Positive
+24.Blue.176	10:34.2	10:35.0	Positive
+24.Blue.177	10:36.9	10:37.8	Positive
+24.Blue.182	10:55.2	10:56.3	Positive
+24.Blue.187	11:06.9	11:07.6	Positive
+24.Orange.159	11:21.3	11:22.5	Positive
+24.Pink.101	11:21.5	11:23.2	Positive
+24.Blue.192	11:22.8	11:27.7	Negative
+24.Orange.160	11:23.3	11:24.6	Positive
+24.Orange.161	11:25.3	11:26.5	Positive & Negative
+24.Orange.162	11:27.3	11:28.7	Positive & Negative
+24.Orange.163	11:28.7	11:30.1	Positive & Negative
+24.Blue.198	11:47.6	11:48.7	Positive
+24.Blue.203	12:01.4	12:03.4	Positive
+24.Orange.176	12:03.4	12:06.5	Positive
+24.Pink.104	12:06.3	12:09.0	Negative
+24.Blue.205	12:07.6	12:08.5	Negative
+24.Orange.187	12:46.7	12:48.1	Positive
+24.Orange.188	12:52.7	12:55.0	Positive
+24.Blue.216	12:57.0	12:58.2	Positive
+24.Blue.218	13:01.2	13:05.2	Positive
+24.Pink.106	13:05.9	13:07.3	Positive
+24.Pink.107	13:07.3	13:09.2	Positive
+24.Pink.108	13:09.2	13:10.7	Positive
+24.Blue.220	13:09.8	13:11.1	Positive
+24.Pink.109	13:12.2	13:13.9	Positive
+24.Blue.221	13:14.0	13:14.8	Positive
+24.Blue.222	13:17.6	13:18.6	Positive

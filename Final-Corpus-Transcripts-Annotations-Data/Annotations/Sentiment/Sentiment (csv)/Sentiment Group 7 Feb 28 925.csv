@@ -1,0 +1,47 @@
+﻿Participant,Start,End,Sentiment 
+7.Orange.7,00:43.5,00:46.4,Positive
+7.Green.11,00:45.7,00:47.2,Positive
+7.Orange.8,00:46.4,00:49.4,Positive
+7.Green.17,01:25.6,01:26.9,Positive & Negative
+7.Orange.10,01:26.1,01:27.7,Positive & Negative
+7.Green.18,01:26.9,01:29.1,Positive & Negative
+7.Green.20,01:32.1,01:35.9,Negative
+7.Green.35,02:39.3,02:40.8,Positive
+7.Green.40,02:57.3,02:59.7,Positive
+7.Orange.19,02:59.7,03:00.2,Positive
+7.Blue.18,02:59.8,03:02.1,Positive
+7.Green.41,03:00.2,03:02.9,Positive
+7.Green.46,03:16.3,03:18.9,Positive
+7.Blue.20,03:17.2,03:18.8,Positive
+7.Orange.23,03:17.5,03:19.1,Positive
+7.Orange.24,03:19.7,03:21.1,Positive
+7.Blue.21,03:23.2,03:24.1,Positive
+7.Orange.27,03:41.9,03:43.9,Positive
+7.Orange.30,03:46.8,03:50.2,Negative
+7.Green.58,04:00.6,04:06.3,Positive
+7.Blue.30,04:31.8,04:32.7,Positive
+7.Orange.42,05:17.8,05:20.0,Positive
+7.Green.78,05:20.6,05:25.4,Positive
+7.Blue.37,05:23.3,05:25.2,Positive
+7.Orange.43,05:33.6,05:34.9,Positive
+7.Blue.41,05:41.2,05:42.7,Positive
+7.Blue.42,05:42.9,05:45.1,Positive
+7.Green.81,05:44.9,05:46.4,Positive
+7.Orange.45,05:52.0,05:53.6,Positive
+7.Orange.47,06:08.3,06:11.7,Positive
+7.Blue.47,06:11.6,06:12.7,Positive
+7.Orange.48,06:11.7,06:15.0,Positive
+7.Green.87,06:11.8,06:12.5,Positive
+7.Green.88,06:13.4,06:16.8,Positive & Negative
+7.Blue.55,07:28.3,07:30.8,Positive
+7.Green.106,07:29.4,07:30.9,Positive
+7.Orange.78,09:08.8,09:10.2,Positive
+7.Green.175,11:16.3,11:17.5,Positive
+7.Green.176,11:19.8,11:21.8,Positive
+7.Green.177,11:21.8,11:22.9,Positive
+7.Blue.75,11:21.9,11:23.0,Positive
+7.Orange.89,11:21.9,11:23.0,Positive
+7.Green.184,11:54.1,11:57.0,Positive
+7.Blue.82,11:57.2,11:58.7,Positive
+7.Orange.93,11:57.2,11:59.2,Positive
+7.Orange.94,12:04.7,12:06.4,Positive

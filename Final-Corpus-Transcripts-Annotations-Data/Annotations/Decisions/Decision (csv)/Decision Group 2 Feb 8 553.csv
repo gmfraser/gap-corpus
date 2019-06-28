@@ -1,0 +1,22 @@
+﻿Participant,Start,End,Decision 
+2.Pink.4,00:03.8,00:05.5,Confirmation
+2.Pink.13,00:36.8,00:37.7,Proposal
+2.Blue.12,00:49.4,00:51.2,Proposal
+2.Pink.19,00:50.8,00:52.3,Agreement
+2.Pink.22,01:04.1,01:06.1,Proposal
+2.Blue.18,01:07.4,01:08.2,Agreement
+2.Blue.20,01:13.8,01:18.9,Proposal
+2.Pink.26,01:17.0,01:18.6,Agreement
+2.Pink.29,01:22.2,01:24.9,Proposal
+2.Blue.23,01:24.5,01:28.0,Agreement & Proposal
+2.Pink.30,01:27.8,01:29.2,Proposal
+2.Blue.25,01:35.7,01:38.3,Proposal
+2.Pink.33,01:38.7,01:39.2,Agreement
+2.Blue.27,01:43.6,01:46.7,Proposal
+2.Pink.35,01:45.1,01:45.6,Agreement
+2.Pink.41,02:01.0,02:02.5,Proposal
+2.Blue.32,02:01.8,02:02.8,Agreement
+2.Pink.45,02:13.8,02:15.6,Proposal
+2.Blue.38,02:16.1,02:16.6,Agreement
+2.Pink.47,02:18.0,02:19.5,Proposal
+2.Blue.40,02:18.6,02:19.0,Agreement

@@ -1,0 +1,9 @@
+Participant	Start	End	Sentiment 
+21.Pink.14	01:39.4	01:41.7	Positive
+21.Blue.21	01:44.2	01:46.1	Positive & Negative
+21.Pink.16	01:45.5	01:46.4	Positive
+21.Pink.23	02:27.5	02:32.2	Positive & Negative
+21.Orange.20	03:03.0	03:04.3	Positive
+21.Pink.34	03:23.4	03:24.6	Positive
+21.Blue.42	03:50.1	03:51.9	Positive
+21.Pink.39	03:51.5	03:54.0	Positive
