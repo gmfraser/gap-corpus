@@ -379,7 +379,7 @@ Participant,Start,End,Duration,Sentiment ,Decision ,Sentence
 24.Blue.160,09:31.0,09:32.5,00:01.5,,,"""I don't think it's as important."""
 24.Orange.131,09:31.8,09:32.9,00:01.1,,Agreement,"""Okay okay."""
 24.Orange.132,09:32.9,09:37.2,00:04.3,,Confirmation,"""So thirty feet of rope."""
-24.Blue.161,09:40.3,09:44.0,00:03.7,,Proposal,"""I put down ski polls as well pretty early on."""
+24.Blue.161,09:40.3,09:44.0,00:03.7,,Proposal,"""I put down ski poles as well pretty early on."""
 24.Orange.133,09:42.3,09:42.9,00:00.5,,,"""%"""
 24.Orange.134,09:43.2,09:44.7,00:01.5,,,"""To make the shelter?"""
 24.Blue.162,09:44.0,09:45.3,00:01.3,,,"""Y-yeah, I don't know."""
