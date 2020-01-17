@@ -17,8 +17,7 @@ Each utterance is labeled with the group member's ID, the utterance number for t
 
 Meeting Annotations:
 Meeting annotations are contained in the "Annotations/" folder. 
-Group decision-making annotations are contained in the "Decisions/" subfolder, in both .csv and .txt formats. 
-Sentiment annotations are contained in the "Sentiment/" subfolder, in both .csv and .txt formats. 
+This includes annotation of decision-making utterances, sentiment-bearing utterances, utterances that refer to a participant's individual ranking, and utterances that refer to a survival item. 
 Each annotation contains the ID, number, and start and end time stamps that correspond to the annotated utterance. 
 
 Merged Transcripts and Annotations:
