@@ -1,8 +1,0 @@
-Participant	Start	End	Sentiment 
-3.Pink.4	00:19.9	00:21.8	Negative
-3.Green.13	00:47.7	00:48.2	Positive
-3.Pink.11	00:47.9	00:50.8	Positive
-3.Pink.24	01:40.3	01:47.3	Positive
-3.Pink.34	02:50.1	02:54.5	Positive & Negative
-3.Green.39	02:51.6	02:53.7	Positive & Negative
-3.Pink.35	02:54.5	02:56.0	Positive & Negative
