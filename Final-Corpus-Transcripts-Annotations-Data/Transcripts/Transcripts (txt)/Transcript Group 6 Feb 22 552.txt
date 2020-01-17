@@ -368,7 +368,7 @@ Participant	Start	End	Sentence
 6.Green.129	08:22.4	08:24.1	"Eleven, twelve."
 6.Green.130	08:24.1	08:25.3	"Eleven, oh, yeah."
 6.Green.131	08:25.4	08:27.3	"And then ski poles and shortening."
-6.Orange.33	08:25.6	08:26.8	"Ski polls?"
+6.Orange.33	08:25.6	08:26.8	"Ski poles?"
 6.Green.132	08:27.3	08:29.0	"So, shortening then ski poles?"
 6.Blue.84	08:27.6	08:29.2	"The shortening definitely."
 6.Pink.124	08:29.0	08:29.9	"Yeah."
