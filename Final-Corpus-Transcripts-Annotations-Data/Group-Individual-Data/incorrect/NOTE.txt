@@ -1,0 +1,3 @@
+These are the versions of the spreadsheets that were originally released with the corpus. Some of the values were incorrect, as can be seen by comparing with the newer versions in the parent directory.
+
+Specifically, some of the meeting lengths were incorrect in the group-level data, and some of the Q1 scores were not reverse-scaled in the individual-level meeting data, which also impacted the aggregate satisfaction score.  
